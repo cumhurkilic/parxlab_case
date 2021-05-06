@@ -18,15 +18,3 @@ modelin elde edilmesi beklenmektedir.
 * Iws: Cumulated wind speed
 * Is: Cumulated hours of snow
 * Ir: Cumulated hours of rain
-
-Çalışma içerisinde en az 1 ML modeli ve probleme yönelik en az 1 DL modeli
-oluşturulmalıdır. Seçilecek DL modeli çok değişkenli model olmalı, birden
-fazla inputu değerlendirerek kirlilik tahmin gerçekleştirmelidir.
-Yapılan veri hazırlama ve görselleştirme aşamaları gösterilmelidir.
-Bu modellerin başarı metrikleri ve sonuçlarının yorumlanması
-beklenmektedir.
-Elde edilen başarı metriğinin olması gerekene göre kıyaslaması da yapılığ
-yorum olarak belirtilmelidir. (Örn: Aslında bu sonuç çıkmalıydı veya bu
-değere yakın olmalıydı ...)
-Modeller veya hazırlanan veri işleme aşamaları bir Jupyter Notebook da veya
-scriptler şeklinde oluşutulabilir.
